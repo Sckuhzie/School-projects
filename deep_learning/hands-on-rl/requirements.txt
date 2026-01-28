@@ -1,0 +1,12 @@
+gymnasium
+torch
+torchvision
+torchaudio
+matplotlib
+stable-baselines3
+moviepy
+opencv-python
+huggingface-sb3
+wandb
+tensorboard
+panda-gym==3.0.7

@@ -1,0 +1,16 @@
+@RELATION Haggis
+
+@ATTRIBUTE skin             {hairy,smooth}
+@ATTRIBUTE colour           {brown,green,red}  
+@ATTRIBUTE size             {small,large}    
+@ATTRIBUTE flesh            {soft,hard}   
+@ATTRIBUTE eats_shortbread  {0,1}
+@ATTRIBUTE length           NUMERIC
+@ATTRIBUTE is_haggis {0,1}
+
+@DATA
+smooth,red,large,hard,1,3.25,1
+hairy,brown,small,hard,1,2.56,0
+smooth,green,small,hard,1,3.05,1
+hairy,red,large,soft,0,2.05,1
+

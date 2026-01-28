@@ -1,0 +1,4 @@
+competition_data
+*.pth
+__MACOSX
+__pycache__
